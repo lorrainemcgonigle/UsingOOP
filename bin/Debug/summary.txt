@@ -1,0 +1,5 @@
+Staff with less than 10 hours
+
+Name of Staff John Hours Worked 8 
+Name of Staff Peter Hours Worked 6 
+Name of Staff Yvonne Hours Worked 2 
